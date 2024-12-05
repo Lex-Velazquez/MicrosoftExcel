@@ -7,7 +7,7 @@ Este conjunto de datos contiene información detallada sobre las ventas de una t
 Transfomar y visualizar los datos que permita a los propietarios de la tienda a obtener información valiosa.
 
 ## Resultados del análisis
-1. Aumento estacional de produstos de verano
+1. Aumento estacional de productos de verano
   -  Las ventas de productos relacionados con el verano como trajes de baño, bloqueador solar y artículos del jardín mostraron un incremento durante los meses de junio a agosto.
 
 2. Bajo rendimiento en la categoria de electrónica
